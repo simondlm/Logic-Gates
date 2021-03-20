@@ -1,0 +1,39 @@
+Unsorted list of items To Do. 
+
+Power In:
+Update footprint of DC Barrel Jack
+Fix footprint on board to prevent mirroring
+Update board with final power distribution methodology
+
+Power In Front Panel
+Update DC Barrel Jack drill hole to correct size
+
+Four Power Outlet
+Move footprints for LEDs slightly left to provide clearance
+Locate and choose schottky diodes 
+Add schottky diodes on output jacks - after LEDs
+
+Four Power Outlet Front Panel
+Move drill holes for LEDs slightly left
+Measure to ensure 2U width as board seems slightly short
+
+555 Timer:
+Add diode on output (as above for four power outlet)
+
+555 Front Panel:
+No changes as current
+
+NOR:
+Update schematic with correct part (MMBT3904)
+Update footprint choices for SMD parts for wide pads on all parts
+Update PCB with new footprint associations
+Reroute PCB - consider putting parts on reverse of PCB for space
+Make silkscreen more readable
+
+NOR Front Panel
+No changes as current.
+
+Global:
+Standardise power input
+Consider size - 1U vs 2U vs larger
+
