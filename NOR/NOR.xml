@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\sdele\Documents\KiCAD\Logic Gates\NOR\NOR.sch</source>
+    <date>2021-02-24 21:50:56</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>NOR.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Q3">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6036C6E7</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6036F906</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60375D6C</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x01</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603774D5</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60377EF3</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>33k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6037886D</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>33k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60378F2D</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>18k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60388E33</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6038C84B</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>330R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6038EBB1</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6038EBB7</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60394C65</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60394C77</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6039AE35</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6039AE47</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603A2689</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>330R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6039AE41</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>330R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60394C71</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>33k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603B2D2A</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>33k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603B63CC</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>33k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603B8CD6</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="2N3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Transistor_BJT.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="Q1" pin="1"/>
+      <node ref="Q3" pin="1"/>
+      <node ref="J1" pin="4"/>
+      <node ref="Q4" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="2" name="Net-(J3-Pad1)">
+      <node ref="R4" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="R6" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="J1" pin="3"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="4" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="5" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="6" name="Net-(Q2-Pad2)">
+      <node ref="R2" pin="1"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="7" name="Net-(D1-Pad1)">
+      <node ref="Q1" pin="3"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad2)">
+      <node ref="R5" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="9" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="10" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="11" name="Net-(J2-Pad1)">
+      <node ref="R1" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="12" name="Net-(Q3-Pad2)">
+      <node ref="R7" pin="1"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="13" name="Net-(J4-Pad1)">
+      <node ref="R9" pin="2"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="R8" pin="2"/>
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="14" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="Q4" pin="3"/>
+    </net>
+    <net code="15" name="Net-(D3-Pad2)">
+      <node ref="R10" pin="1"/>
+      <node ref="D3" pin="2"/>
+    </net>
+  </nets>
+</export>
